@@ -1,0 +1,66 @@
+.canvas{
+    background-color: skyblue;
+    color: black;
+    height: 700px;
+    width: 800px;
+    border: 2px solid black;
+    margin: auto;
+    text-align: center;
+    
+}
+.canvas:hover{
+    background-color: rgb(237, 231, 182);
+}
+#number{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+#guess{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(49, 81, 42);
+}
+
+#attempts{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(72, 53, 39);
+
+}
+#guessingnumber{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(73, 54, 40);
+}
+
+#guessfield{
+    border: 2px solid black;
+    height: 30px;
+    width: 250px;
+   border-style: none;
+    color: white;
+    font-size: 20px;
+    background-color: rgb(127, 114, 140);
+}
+#submitguess{
+    height: 50px;
+    width: 150px;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#guesses{
+    padding: 10px;
+    color: white;
+    background-color: rgb(130, 155, 156);
+    
+    
+}
+
+.result{
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
